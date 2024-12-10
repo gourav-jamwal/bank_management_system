@@ -1,7 +1,9 @@
-🏦 Bank Management System
+##  🏦 Bank Management System
+
 A simple and interactive GUI-based Bank Management System developed using Python's Tkinter for the frontend and MySQL for the backend. This system allows users to manage their bank accounts with features like account creation, login, credit, debit, and viewing account details.
 
-✨ Features
+## ✨ Features
+
 New User Registration: Users can create a new bank account with a unique 10-digit account number.
 Secure Login: Users log in using their account number and 4-digit PIN.
 Balance Management:
@@ -13,7 +15,8 @@ PIN must be exactly 4 digits.
 Contact number must be exactly 10 digits.
 Prevent overdrafts during debits.
 
-🖥️ Technologies Used
+## 🖥️ Technologies Used
+
 Programming Language: Python
 Database: MySQL
 GUI Library: Tkinter
@@ -21,7 +24,8 @@ Additional Modules:
 pymysql for database connectivity.
 random for generating unique account numbers.
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 Follow the steps below to set up and run the project on your system.
 
 Prerequisites
@@ -60,5 +64,6 @@ python app.py
 The application will launch with a GUI window. Start managing your bank accounts! 🎉
 
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
